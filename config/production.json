@@ -1,0 +1,6 @@
+{
+  "name": "My App - Prod",
+  "mail": {
+    "server": "production"
+  }
+}
